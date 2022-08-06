@@ -27,8 +27,8 @@ For server-side Firebase, Node JS, Express JS, and Mongo DB for the database.
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
 
-[![Most_Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=najrul04&layout=compact)](https://github.com/najrul04/github-readme-stats)
-
-![Najrul's GitHub stats](https://github-readme-stats.vercel.app/api?username=najrul04&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=najrul04&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=najrul04&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=najrul04&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=najrul04)   
