@@ -68,4 +68,7 @@ For server-side Firebase, Node JS, Express JS, and Mongo DB for the database.
 ![](https://github-readme-stats.vercel.app/api?username=najrul04&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=najrul04&theme=dark&hide_border=false)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=najrul04)   
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
