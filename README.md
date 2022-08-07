@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/najrul04/najrul04/master/19362653.jpg" alt="Banner">
+<img src="https://raw.githubusercontent.com/najrul04/najrul04/master/cover.gif" alt="Banner">
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/najrul04/najrul04/master/hello.gif" alt="Banner"  width="30" height="30"> I'm Najrul</h1>
 <h3 align="center">Web Developer</h3>
