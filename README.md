@@ -50,7 +50,8 @@ For server-side Firebase, Node JS, Express JS, and Mongo DB for the database.
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/woocommerce.png" alt="WooCommerce" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" />
+<img style="margin: 10px" src="https://raw.githubusercontent.com/najrul04/najrul04/master/vsCode.png" alt="Git" height="50" />  
 </div>
 
 </td></tr></table>  
