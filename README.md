@@ -11,10 +11,7 @@ For server-side Firebase, Node JS, Express JS, and Mongo DB for the database.
 
 ![Profile views](https://gpvc.arturio.dev/najrul04) 
 
-<!--## My Skill Set-->
- 
- 
-<img align="left" margin-right="15px" src="https://raw.githubusercontent.com/najrul04/najrul04/master/website_designing.gif" alt="Banner"  width="400" height="320">
+<!--## My Skill Set <img align="left" margin-right="15px" src="https://raw.githubusercontent.com/najrul04/najrul04/master/website_designing.gif" alt="Banner"  width="400" height="320">-->
  
  <h3>## My Skill Set:</h3>
  
@@ -33,8 +30,6 @@ For server-side Firebase, Node JS, Express JS, and Mongo DB for the database.
 
 </td><td valign="top" width="33%">
 
-
-
 ### Backend  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
@@ -47,8 +42,6 @@ For server-side Firebase, Node JS, Express JS, and Mongo DB for the database.
 
 </td><td valign="top" width="33%">
 
-
-
 ### Others  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
@@ -60,9 +53,7 @@ For server-side Firebase, Node JS, Express JS, and Mongo DB for the database.
 
 </td></tr></table>  
  
- <!--## 🌐 Socials: socialmedia.gif-->
-
-<img align="right" src="https://raw.githubusercontent.com/najrul04/najrul04/master/socialmedia.gif" alt="Banner"  width="250" height="200">
+ <!--## 🌐 Socials: socialmedia.gif <img align="right" src="https://raw.githubusercontent.com/najrul04/najrul04/master/socialmedia.gif" alt="Banner"  width="250" height="200">-->
  
 ## 🌐 Socials:
  
