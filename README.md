@@ -11,7 +11,11 @@ For server-side Firebase, Node JS, Express JS, and Mongo DB for the database.
 
 ![Profile views](https://gpvc.arturio.dev/najrul04) 
 
-## My Skill Set  
+<!--## My Skill Set-->
+ 
+ 
+<img src="https://raw.githubusercontent.com/najrul04/najrul04/master/website_designing.gif" alt="Banner"  width="250" height="200">
+ 
 <table><tr><td valign="top" width="33%">
 
 
