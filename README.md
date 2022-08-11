@@ -1,4 +1,3 @@
-<img align="center" height:"600" width:"800" src="https://raw.githubusercontent.com/najrul04/najrul04/master/19362653.jpg" alt="Banner">
 
 <p align="center">
   <img width="1000" height="500" src="https://raw.githubusercontent.com/najrul04/najrul04/master/19362653.jpg">
