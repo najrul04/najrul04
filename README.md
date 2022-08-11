@@ -13,7 +13,7 @@ For server-side Firebase, Node JS, Express JS, and Mongo DB for the database.
 
 <!--## My Skill Set <img align="left" margin-right="15px" src="https://raw.githubusercontent.com/najrul04/najrul04/master/website_designing.gif" alt="Banner"  width="400" height="320">-->
  
- <h3>##My Skill Set:</h3>
+ <h3>My Skill Set:</h3>
  
 <table><tr><td valign="top" width="33%">
 
