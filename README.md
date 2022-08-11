@@ -1,5 +1,9 @@
 <img align="center" height:"600" width:"800" src="https://raw.githubusercontent.com/najrul04/najrul04/master/19362653.jpg" alt="Banner">
 
+<p align="center">
+  <img width="100" height="800" src="https://raw.githubusercontent.com/najrul04/najrul04/master/19362653.jpg">
+</p>
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/najrul04/najrul04/master/hello.gif" alt="Banner"  width="30" height="30"> <img src="https://raw.githubusercontent.com/najrul04/najrul04/master/iamnajrul.gif"</h1>
 <h3 align="center">Web Developer</h3>
 
