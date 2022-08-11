@@ -14,7 +14,7 @@ For server-side Firebase, Node JS, Express JS, and Mongo DB for the database.
 <!--## My Skill Set-->
  
  
-<img src="https://raw.githubusercontent.com/najrul04/najrul04/master/website_designing.gif" alt="Banner"  width="800" height="400">
+<img align="right" src="https://raw.githubusercontent.com/najrul04/najrul04/master/website_designing.gif" alt="Banner"  width="350" height="200">
  
  ## My Skill Set:
  
@@ -62,7 +62,7 @@ For server-side Firebase, Node JS, Express JS, and Mongo DB for the database.
  
  <!--## 🌐 Socials: socialmedia.gif-->
 
-<img src="https://raw.githubusercontent.com/najrul04/najrul04/master/socialmedia.gif" alt="Banner"  width="250" height="200">
+<img align="right" src="https://raw.githubusercontent.com/najrul04/najrul04/master/socialmedia.gif" alt="Banner"  width="250" height="200">
  
 ## 🌐 Socials:
  
