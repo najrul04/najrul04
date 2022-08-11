@@ -14,7 +14,7 @@ For server-side Firebase, Node JS, Express JS, and Mongo DB for the database.
 <!--## My Skill Set-->
  
  
-<img align="left" src="https://raw.githubusercontent.com/najrul04/najrul04/master/website_designing.gif" alt="Banner"  width="350" height="200">
+<img align="left" margin-right="15px" src="https://raw.githubusercontent.com/najrul04/najrul04/master/website_designing.gif" alt="Banner"  width="350" height="200">
  
  ## My Skill Set:
  
