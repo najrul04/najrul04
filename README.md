@@ -1,9 +1,9 @@
 
 <p align="center">
-  <img width="1000" height="500" src="https://raw.githubusercontent.com/najrul04/najrul04/master/19362653.jpg">
+  src="https://raw.githubusercontent.com/najrul04/najrul04/master/19362653.jpg">
 </p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/najrul04/najrul04/master/hello.gif" alt="Banner"  width="30" height="30"> <img src="https://raw.githubusercontent.com/najrul04/najrul04/master/iamnajrul.gif"</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/najrul04/najrul04/master/hello.gif" alt="Banner" width="30" height="30"> <img "background-color": "transparent"; src="https://raw.githubusercontent.com/najrul04/najrul04/master/iamnajrul.gif"</h1>
 <h3 align="center">Web Developer</h3>
 
 An ambitious, enthusiastic web developer is competent in JavaScript, Node JS, Express JS. Pixel perfect Responsive design using HTML, CSS, JavaScript with the help of its libraries like REACT JS, Bootstrap or Tailwind, or Material UI.
