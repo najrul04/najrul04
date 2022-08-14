@@ -1,6 +1,6 @@
 
 <p align="center">
-  src="https://raw.githubusercontent.com/najrul04/najrul04/master/19362653.jpg">
+  <img src="https://raw.githubusercontent.com/najrul04/najrul04/master/19362653.jpg">
 </p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/najrul04/najrul04/master/hello.gif" alt="Banner" width="30" height="30"> <img  src="https://raw.githubusercontent.com/najrul04/najrul04/master/iamnajrul.gif"</h1>
