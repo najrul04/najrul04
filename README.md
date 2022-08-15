@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/najrul04/najrul04/master/19362653.jpg">
 </p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=A124B6&width=435&lines=Hello+;I+am+Najrul;Front+End+Developer" alt="Typing SVG" /></a>
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=A124B6&width=435&lines=Hello+;I+am+Najrul;Front+End+Developer" alt="Typing SVG" /></a>
 
 <!--
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/najrul04/najrul04/master/hello.gif" alt="Banner" width="30" height="30"> <img  src="https://raw.githubusercontent.com/najrul04/najrul04/master/iamnajrul.gif" </h1>
