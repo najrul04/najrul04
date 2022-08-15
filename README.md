@@ -13,10 +13,9 @@ For server-side Firebase, Node JS, Express JS, and Mongo DB for the database.
 
 </p>
 
-  <br/>
-
   <p align="center"> 
 - 📫 How to reach me: nazrul2517@gmail.com
+  <br/>
 - ⚡ Fun fact: The first computer bug was actually a bug(Moth).
  </p>
 
