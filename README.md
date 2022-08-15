@@ -1,9 +1,12 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/najrul04/najrul04/master/19362653.jpg">
 </p>
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/najrul04/najrul04/master/hello.gif" alt="Banner" width="30" height="30"> <img  src="https://raw.githubusercontent.com/najrul04/najrul04/master/iamnajrul.gif"</h1>
+<!-- 
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/najrul04/najrul04/master/hello.gif" alt="Banner" width="30" height="30"> <img  src="https://raw.githubusercontent.com/najrul04/najrul04/master/iamnajrul.gif" </h1>
 <h3 align="center">Web Developer</h3>
+ -->
+
+<img src="https://raw.githubusercontent.com/najrul04/najrul04/master/Hello,-I-am-Najrul1.gif">
 
 <p>
 
@@ -11,6 +14,9 @@ An ambitious, enthusiastic web developer is competent in JavaScript, Node JS, Ex
 For server-side Firebase, Node JS, Express JS, and Mongo DB for the database.
 
 </p>
+
+  <br/>
+  <br/>
 
 - 📫 How to reach me: nazrul2517@gmail.com
 - ⚡ Fun fact: The first computer bug was actually a bug(Moth).
