@@ -17,9 +17,8 @@ For server-side Firebase, Node JS, Express JS, and Mongo DB for the database.
 <!--## My Skill Set <img align="left" margin-right="15px" src="https://raw.githubusercontent.com/najrul04/najrul04/master/website_designing.gif" alt="Banner"  width="400" height="320">-->
  
  <h3>My Skill Set:</h3>
- 
- <div align="left" margin-right="15px"  class="tenor-gif-embed" data-postid="15012519" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/machine-illustration-robot-social-social-media-gif-15012519">Machine Illustration GIF</a>from <a href="https://tenor.com/search/machine-gifs">Machine GIFs</a></div> 
- <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  
+  ## My Skill Set <img align="right" margin-right="15px" src="https://tenor.com/view/machine-illustration-robot-social-social-media-gif-15012519" alt="Banner"  width="400" height="320">
  
 <table><tr><td valign="top" width="33%">
 
