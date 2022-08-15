@@ -4,7 +4,6 @@
 </p>
 
 
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/najrul04/najrul04/master/hello.gif" alt="Banner" width="30" height="30"> <img  src="https://raw.githubusercontent.com/najrul04/najrul04/master/iamnajrul.gif"</h1>
 <h3 align="center">Web Developer</h3>
 
@@ -60,7 +59,7 @@ For server-side Firebase, Node JS, Express JS, and Mongo DB for the database.
  
  <!--## 🌐 Socials: socialmedia.gif <img align="right" src="https://raw.githubusercontent.com/najrul04/najrul04/master/socialmedia.gif" alt="Banner"  width="250" height="200">-->
  
- <img align="right"  margin="15px 0" src="https://raw.githubusercontent.com/najrul04/najrul04/master/machine_illustration.gif">
+ <img align="right" margin="15px 0"  width="50" height="40" src="https://raw.githubusercontent.com/najrul04/najrul04/master/machine_illustration.gif">
  
 ## 🌐 Socials:
  
