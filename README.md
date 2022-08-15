@@ -4,8 +4,7 @@
 
 <a href="https://git.io/typing-svg" rel="nofollow"><img src="https://camo.githubusercontent.com/ca7507be92c7d75fc840bd45fa8a7c5c466e61f43a5919ec932b60630100583b/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d4d6f7573652b4d656d6f6972732673697a653d36352670617573653d35303026636f6c6f723d303643443943267643656e7465723d747275652677696474683d363030266865696768743d3730266c696e65733d4d6f73746166612b46617a6c693b4d6f7346617a6c693b612b536f6674776172652b446576656c6f7065723b554925324655582b44657369676e6572" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&amp;size=65&amp;pause=500&amp;color=06CD9C&amp;vCenter=true&amp;width=600&amp;height=70&amp;lines=Mostafa+Fazli;MosFazli;a+Software+Developer;UI%2FUX+Designer" style="max-width: 100%;"></a>
 
-<img src="https://camo.githubusercontent.com/ca7507be92c7d75fc840bd45fa8a7c5c466e61f43a5919ec932b60630100583b/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d4d6f7573652b4d656d6f6972732673697a653d36352670617573653d35303026636f6c6f723d303643443943267643656e7465723d747275652677696474683d363030266865696768743d3730266c696e65733d4d6f73746166612b46617a6c693b4d6f7346617a6c693b612b536f6674776172652b446576656c6f7065723b554925324655582b44657369676e6572" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&amp;size=65&amp;pause=500&amp;color=06CD9C&amp;vCenter=true&amp;width=600&amp;height=70&amp;lines=Mostafa+Fazli;MosFazli;a+Software+Developer;UI%2FUX+Designer" style="max-width: 100%;">
-<!-- 
+<!--
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/najrul04/najrul04/master/hello.gif" alt="Banner" width="30" height="30"> <img  src="https://raw.githubusercontent.com/najrul04/najrul04/master/iamnajrul.gif" </h1>
 <h3 align="center">Web Developer</h3>
  -->
