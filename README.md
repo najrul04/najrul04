@@ -13,13 +13,13 @@ For server-side Firebase, Node JS, Express JS, and Mongo DB for the database.
 
 </p>
 
-  <p align="left"> 
+  <p> 
 - 📫 How to reach me: nazrul2517@gmail.com
   <br/>
 - ⚡ Fun fact: The first computer bug was actually a bug(Moth).
  </p>
 
-<p align="right"> ![Profile views](https://gpvc.arturio.dev/najrul04)  </p>
+![Profile views](https://gpvc.arturio.dev/najrul04)
 
  <img align="left" margin="15px 0"  width="400" height="250" src="https://raw.githubusercontent.com/najrul04/najrul04/master/coding_1.gif">
       
