@@ -71,7 +71,7 @@ For server-side Firebase, Node JS, Express JS, and Mongo DB for the database.
  
  <!--## 🌐 Socials: socialmedia.gif <img align="right" src="https://raw.githubusercontent.com/najrul04/najrul04/master/socialmedia.gif" alt="Banner"  width="250" height="200">-->
   
- <img align="right" margin="15px 0"  width="300" height="220" src="https://raw.githubusercontent.com/najrul04/najrul04/master/machine_illustration.gif">
+ <img align="right" margin="15px 0"  width="250" height="170" src="https://raw.githubusercontent.com/najrul04/najrul04/master/machine_illustration.gif">
  
   <br/>
   
