@@ -2,14 +2,14 @@
   <img src="https://raw.githubusercontent.com/najrul04/najrul04/master/19362653.jpg">
 </p>
 
-<a href="https://git.io/typing-svg" rel="nofollow"><img src="https://raw.githubusercontent.com/najrul04/najrul04/master/Hello,-I-am-Najrul1.gif" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&amp;size=65&amp;pause=500&amp;color=06CD9C&amp;vCenter=true&amp;width=600&amp;height=70&amp;lines=Mostafa+Fazli;MosFazli;a+Software+Developer;UI%2FUX+Designer" style="max-width: 100%;"></a>
+<a href="https://git.io/typing-svg" rel="nofollow"><img src="https://raw.githubusercontent.com/najrul04/najrul04/master/Hello,-I-am-Najrul1.gif/Hello,-I-am-Najrul1.gif" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&amp;size=65&amp;pause=500&amp;color=06CD9C&amp;vCenter=true&amp;width=600&amp;height=70&amp;lines=Mostafa+Fazli;MosFazli;a+Software+Developer;UI%2FUX+Designer" style="max-width: 100%;"></a>
 
 <!--
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/najrul04/najrul04/master/hello.gif" alt="Banner" width="30" height="30"> <img  src="https://raw.githubusercontent.com/najrul04/najrul04/master/iamnajrul.gif" </h1>
 <h3 align="center">Web Developer</h3>
  -->
 
-<img src="https://raw.githubusercontent.com/najrul04/najrul04/master/Hello,-I-am-Najrul1.gif">
+<!-- <img src="https://raw.githubusercontent.com/najrul04/najrul04/master/Hello,-I-am-Najrul1.gif"> -->
 
 <p>
 
