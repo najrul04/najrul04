@@ -18,7 +18,7 @@ For server-side Firebase, Node JS, Express JS, and Mongo DB for the database.
   <br/>
 - ⚡ Fun fact: The first computer bug was actually a bug(Moth).
  </p>
-<p>
+<p align="right">
 
 ![Profile views](https://gpvc.arturio.dev/najrul04)
 
