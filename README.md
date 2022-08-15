@@ -15,8 +15,10 @@ For server-side Firebase, Node JS, Express JS, and Mongo DB for the database.
 
   <br/>
 
+  <p align="center"> 
 - 📫 How to reach me: nazrul2517@gmail.com
 - ⚡ Fun fact: The first computer bug was actually a bug(Moth).
+ </p>
 
 ![Profile views](https://gpvc.arturio.dev/najrul04)
 
