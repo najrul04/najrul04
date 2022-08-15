@@ -29,6 +29,7 @@ For server-side Firebase, Node JS, Express JS, and Mongo DB for the database.
   <br/>
   <br/>
   <br/>
+  <br/>
  <h3>My Skill Set:</h3>
  
 <table><tr><td valign="top" width="33%">
