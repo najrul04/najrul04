@@ -34,8 +34,6 @@ For server-side Firebase, Node JS, Express JS, and Mongo DB for the database.
   <br/>
   <br/>
   <br/>
-  <img src="https://raw.githubusercontent.com/najrul04/najrul04/master/3775431.png">
- <h3> <img src="https://raw.githubusercontent.com/najrul04/najrul04/master/skillicon.png"> My Skill Set:</h3>
  
 <table><tr><td valign="top" width="33%">
 
@@ -82,7 +80,9 @@ For server-side Firebase, Node JS, Express JS, and Mongo DB for the database.
  
   <br/>
   
-## 🌐 Socials:
+  <!-- 🌐### ✍️   -->
+  
+<h3><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=3000&color=9416A4&width=435&lines=Socials%3A" alt="Typing SVG" /></a></h3>
  
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/najrul-islam) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/nazrul2517) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/nazrul_i04) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/najrul0) [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/nazrul2517) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15235744) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://reddit.com/user/Asleep-Direction3888) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)](https://quora.com/profile/Nazrul-Islam-19-1)  
  
@@ -90,10 +90,11 @@ For server-side Firebase, Node JS, Express JS, and Mongo DB for the database.
 ![](https://github-readme-stats.vercel.app/api?username=najrul04&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=najrul04&theme=dark&hide_border=false)
 
-### ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-##Snake!!
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=3000&color=9416A4&width=435&lines=SNAKE!!" alt="Typing SVG" /></a>
 
 ![snake gif](https://github.com/najrul04/najrul04/blob/output/github-contribution-grid-snake.svg)
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=3000&color=9416A4&width=435&lines=Random+Dev+Quote%3A" alt="Typing SVG" /></a>
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
