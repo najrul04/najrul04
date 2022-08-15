@@ -1,16 +1,10 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/najrul04/najrul04/master/19362653.jpg">
+  <img src="https://raw.githubusercontent.com/najrul04/najrul04/master/img/19362653.jpg">
 </p>
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=50&duration=3000&pause=400&color=A124B6&vCenter=true&width=435&lines=Hello+;I+am+Najrul;Front+End+Developer" alt="Typing SVG" /></a>
 </p>
-<!--
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/najrul04/najrul04/master/hello.gif" alt="Banner" width="30" height="30"> <img  src="https://raw.githubusercontent.com/najrul04/najrul04/master/iamnajrul.gif" </h1>
-<h3 align="center">Web Developer</h3>
- -->
-
-<!-- <img src="https://raw.githubusercontent.com/najrul04/najrul04/master/Hello,-I-am-Najrul1.gif"> -->
 
 <p>
 
@@ -26,8 +20,6 @@ For server-side Firebase, Node JS, Express JS, and Mongo DB for the database.
 - ⚡ Fun fact: The first computer bug was actually a bug(Moth).
 
 ![Profile views](https://gpvc.arturio.dev/najrul04)
-
-<!--## My Skill Set <img align="left" margin-right="15px" src="https://raw.githubusercontent.com/najrul04/najrul04/master/website_designing.gif" alt="Banner"  width="400" height="320">-->
 
  <img align="left" margin="15px 0"  width="400" height="250" src="https://raw.githubusercontent.com/najrul04/najrul04/master/coding_1.gif">
       
@@ -85,8 +77,6 @@ For server-side Firebase, Node JS, Express JS, and Mongo DB for the database.
 
 </td></tr></table>  
  
- <!--## 🌐 Socials: socialmedia.gif <img align="right" src="https://raw.githubusercontent.com/najrul04/najrul04/master/socialmedia.gif" alt="Banner"  width="250" height="200">-->
-  
  <img align="right" margin="15px 0"  width="250" height="170" src="https://raw.githubusercontent.com/najrul04/najrul04/master/machine_illustration.gif">
  
   <br/>
@@ -106,26 +96,3 @@ For server-side Firebase, Node JS, Express JS, and Mongo DB for the database.
 ##Snake!!
 
 ![snake gif](https://github.com/najrul04/najrul04/blob/output/github-contribution-grid-snake.svg)
-
----
-
-<!--
-
-<script>
-
-  // Hero typed
-  if ($('.typed').length) {
-    var typed_strings = $(".typed").data('typed-items');
-    typed_strings = typed_strings.split(',')
-    new Typed('.typed', {
-      strings: typed_strings,
-      loop: true,
-      typeSpeed: 100,
-      backSpeed: 50,
-      backDelay: 2000
-    });
-  }
-
-<script/>
-
- -->
