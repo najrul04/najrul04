@@ -1,8 +1,6 @@
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/najrul04/najrul04/master/19362653.jpg">
 </p>
-
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/najrul04/najrul04/master/hello.gif" alt="Banner" width="30" height="30"> <img  src="https://raw.githubusercontent.com/najrul04/najrul04/master/iamnajrul.gif"</h1>
 <h3 align="center">Web Developer</h3>
@@ -10,13 +8,13 @@
 An ambitious, enthusiastic web developer is competent in JavaScript, Node JS, Express JS. Pixel perfect Responsive design using HTML, CSS, JavaScript with the help of its libraries like REACT JS, Bootstrap or Tailwind, or Material UI.
 For server-side Firebase, Node JS, Express JS, and Mongo DB for the database.
 
-- 📫 How to reach me: nazrul2517@gmail.com 
-- ⚡ Fun fact: The first computer bug was actually a bug(Moth). 
+- 📫 How to reach me: nazrul2517@gmail.com
+- ⚡ Fun fact: The first computer bug was actually a bug(Moth).
 
-![Profile views](https://gpvc.arturio.dev/najrul04) 
+![Profile views](https://gpvc.arturio.dev/najrul04)
 
 <!--## My Skill Set <img align="left" margin-right="15px" src="https://raw.githubusercontent.com/najrul04/najrul04/master/website_designing.gif" alt="Banner"  width="400" height="320">-->
- 
+
  <img align="left" margin="15px 0"  width="400" height="250" src="https://raw.githubusercontent.com/najrul04/najrul04/master/coding_1.gif">
       
   <br/>
@@ -34,7 +32,8 @@ For server-side Firebase, Node JS, Express JS, and Mongo DB for the database.
  
 <table><tr><td valign="top" width="33%">
 
-### Frontend  
+### Frontend
+
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
@@ -47,7 +46,8 @@ For server-side Firebase, Node JS, Express JS, and Mongo DB for the database.
 
 </td><td valign="top" width="33%">
 
-### Backend  
+### Backend
+
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
@@ -59,7 +59,8 @@ For server-side Firebase, Node JS, Express JS, and Mongo DB for the database.
 
 </td><td valign="top" width="33%">
 
-### Others  
+### Others
+
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" />  
@@ -85,6 +86,24 @@ For server-side Firebase, Node JS, Express JS, and Mongo DB for the database.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=najrul04&theme=dark&hide_border=false)
 
 ### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
+
+<script>
+
+  // Hero typed
+  if ($('.typed').length) {
+    var typed_strings = $(".typed").data('typed-items');
+    typed_strings = typed_strings.split(',')
+    new Typed('.typed', {
+      strings: typed_strings,
+      loop: true,
+      typeSpeed: 100,
+      backSpeed: 50,
+      backDelay: 2000
+    });
+  }
+
+<script/>
