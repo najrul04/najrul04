@@ -92,12 +92,14 @@ For server-side Firebase, Node JS, Express JS, and Mongo DB for the database.
  <h3>
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=3000&color=9416A4&width=435&lines=Languages%3A" alt="Typing SVG" /></a>
  </h3>
+
 ![](https://github-readme-stats.vercel.app/api?username=najrul04&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
  <h3>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=3000&color=9416A4&width=435&lines=Streaks%3A" alt="Typing SVG" /></a>
  </h3>
-![](https://github-readme-streak-stats.herokuapp.com/?user=najrul04&theme=dark&hide_border=false)
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=najrul04&theme=dark&hide_border=false)
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=3000&color=9416A4&width=435&lines=SNAKE!!" alt="Typing SVG" /></a>
 
 ![snake gif](https://github.com/najrul04/najrul04/blob/output/github-contribution-grid-snake.svg)
