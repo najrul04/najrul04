@@ -18,8 +18,11 @@ For server-side Firebase, Node JS, Express JS, and Mongo DB for the database.
   <br/>
 - ⚡ Fun fact: The first computer bug was actually a bug(Moth).
  </p>
+<p>
 
 ![Profile views](https://gpvc.arturio.dev/najrul04)
+
+</p>
 
  <img align="left" margin="15px 0"  width="400" height="250" src="https://raw.githubusercontent.com/najrul04/najrul04/master/coding_1.gif">
       
