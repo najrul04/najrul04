@@ -34,9 +34,9 @@ For server-side Firebase, Node JS, Express JS, and Mongo DB for the database.
 
   <!-- Skills -->
 
-<img margin="15px 0" width="400" height="250" src="https://github.com/najrul04/najrul04/blob/main/coding_1.gif/>
+<!-- <img margin="15px 0" width="400" height="250" src="https://github.com/najrul04/najrul04/blob/main/coding_1.gif/> -->
 
-<img src="https://github.com/najrul04/najrul04/blob/main/coding_1.gif">
+<img margin="15px 0" width="400" height="250" src="https://github.com/najrul04/najrul04/blob/main/coding_1.gif">
 
   <br/>
   <br/>
