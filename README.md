@@ -38,9 +38,6 @@ For server-side Firebase, Node JS, Express JS, and Mongo DB for the database.
 
 <img margin="15px 0" width="400" height="250" src="https://github.com/najrul04/najrul04/blob/main/coding_1.gif">
 
-  <br/>
-  <br/>
-  
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=3000&color=9416A4&width=435&lines=Skills%3A" alt="Typing SVG" /></a>
 
 <table><tr><td valign="top" width="33%">
