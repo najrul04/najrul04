@@ -99,6 +99,11 @@ For server-side Firebase, Node JS, Express JS, and Mongo DB for the database.
 
 ![](https://github-readme-stats.vercel.app/api?username=najrul04&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=3000&color=9416A4&width=435&lines=3D+Chart%3A" alt="Typing SVG" /></a>
+
+![](./profile-3d-contrib/profile-night-view.svg)
+
  <h3>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=3000&color=9416A4&width=435&lines=Streaks%3A" alt="Typing SVG" /></a>
  </h3>
@@ -112,4 +117,3 @@ For server-side Firebase, Node JS, Express JS, and Mongo DB for the database.
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-![](./profile-3d-contrib/profile-green-animate.svg)
