@@ -111,3 +111,5 @@ For server-side Firebase, Node JS, Express JS, and Mongo DB for the database.
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=3000&color=9416A4&width=435&lines=Random+Dev+Quote%3A" alt="Typing SVG" /></a>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+![](./profile-3d-contrib/profile-green-animate.svg)
