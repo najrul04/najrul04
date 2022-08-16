@@ -105,11 +105,12 @@ For server-side Firebase, Node JS, Express JS, and Mongo DB for the database.
  </h3>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=najrul04&theme=dark&hide_border=false)
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=3000&color=9416A4&width=435&lines=SNAKE!!" alt="Typing SVG" /></a>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=3000&color=9416A4&width=435&lines=3D+Chart%3A" alt="Typing SVG" /></a>
 
 ![](./profile-3d-contrib/profile-night-view.svg)
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=3000&color=9416A4&width=435&lines=SNAKE!!" alt="Typing SVG" /></a>
 
 ![snake gif](https://github.com/najrul04/najrul04/blob/output/github-contribution-grid-snake.svg)
 
