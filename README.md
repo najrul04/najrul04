@@ -120,7 +120,7 @@ For server-side Firebase, Node JS, Express JS, and Mongo DB for the database.
 
 ![](./profile-3d-contrib/profile-night-view.svg)
 
-<!-- Snake -->
+<!-- Snake :3 -->
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=3000&color=9416A4&width=435&lines=SNAKE!!" alt="Typing SVG" /></a>
 
