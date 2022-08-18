@@ -92,6 +92,8 @@ For server-side Firebase, Node JS, Express JS, and Mongo DB for the database.
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/nazrul2517){:target="\_blank"}
 
+[go](http://stackoverflow.com){:target="\_blank" rel="noopener"}
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/nazrul_i04)
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/najrul0)
