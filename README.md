@@ -88,7 +88,7 @@ For server-side Firebase, Node JS, Express JS, and Mongo DB for the database.
 
 <h3><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=3000&color=9416A4&width=435&lines=Socials%3A" alt="Typing SVG" /></a></h3>
  
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)] <a target="_blank">(https://linkedin.com/in/najrul-islam)</a>
+<a target="_blank"> [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)] (https://linkedin.com/in/najrul-islam)</a>
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/nazrul2517)
 
