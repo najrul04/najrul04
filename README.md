@@ -93,7 +93,8 @@ For server-side Firebase, Node JS, Express JS, and Mongo DB for the database.
 <!-- 🌐### ✍️  Git Statistics-->
 
 <details>
-  <summary><b><g-emoji class="g-emoji" alias="gear" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2699.png">🔽</g-emoji> &nbsp;More Stats</b></summary> 
+  <summary><b><g-emoji class="g-emoji" alias="gear" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2699.png">🔽</g-emoji> &nbsp; More Stats</b></summary> 
+  
   <div align="left" dir="auto">
 
 
