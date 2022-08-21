@@ -99,6 +99,7 @@ For server-side Firebase, Node JS, Express JS, and Mongo DB for the database.
 
 
  <h3>
+ <!-- Most Used Language-->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=3000&color=9416A4&width=435&lines=Most+Used+Language%3A" alt="Typing SVG" /></a>
  </h3>
 
