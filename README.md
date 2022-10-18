@@ -14,8 +14,7 @@
 
 <p>
 
-An ambitious, enthusiastic web developer is competent in JavaScript, Node JS, Express JS. Pixel perfect Responsive design using HTML, CSS, JavaScript with the help of its libraries like REACT JS, Bootstrap or Tailwind, or Material UI.
-For server-side Firebase, Node JS, Express JS, and Mongo DB for the database.
+I am a self taught, ambitious and enthusiastic front-end developer. I have created several projects(websites) using HTML, CSS, JavaScript, React  JS, Node  JS. I find it really interesting and I really love what I do. The possibilities offered by the industry are endless and this motivates me to keep learning new methods and technologies every day. I will be happy if I can contribute to the growth of companies with my work and knowledge.
 
 </p>
 
