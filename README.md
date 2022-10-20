@@ -14,7 +14,7 @@
 
 <p>
 
-I am a self taught, ambitious and enthusiastic front-end developer. I have created several projects(websites) using HTML, CSS, JavaScript, React  JS, Node  JS. I find it really interesting and I really love what I do. The possibilities offered by the industry are endless and this motivates me to keep learning new methods and technologies every day. I will be happy if I can contribute to the growth of companies with my work and knowledge.
+I am a self-driven, ambitious, and enthusiastic front‑end developer. I have worked on several web development projects using HTML, CSS, JavaScript, React JS and Node JS. I am very interested to work as a web developer and I love to do it. The possibilities offered by the industry are endless and this motivates me to keep learning new methods and technologies every day. I would love to contribute to supporting the team’s objectives and outstanding performance.
 
 </p>
 
