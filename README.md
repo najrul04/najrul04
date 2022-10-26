@@ -18,7 +18,7 @@ I am a self-driven, ambitious, and enthusiastic front‑end developer. I have wo
 
 </p>
 
-<!-- Issues -->
+<!-- Issuess -->
 
   <p> 
 - 📫 How to reach me: nazrul2517@gmail.com
