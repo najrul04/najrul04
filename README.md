@@ -135,13 +135,19 @@ I am a self-driven ambitious, and enthusiastic front‑end developer. I have wor
 
 
  <h3>
- <!-- Most Used Language-->
+ <!-- Most Used Language
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=3000&color=9416A4&width=435&lines=Most+Used+Language%3A" alt="Typing SVG" /></a>
  </h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/najrul04/github-readme-stats) <br/>
+-->
+
 
 <!-- GitHub Stats -->
+
+
+<!-- Streak_Stat 
 
  <h3>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=3000&color=9416A4&width=435&lines=Stats%3A" alt="Typing SVG" /></a>
@@ -149,7 +155,7 @@ I am a self-driven ambitious, and enthusiastic front‑end developer. I have wor
 
 [![Najrul's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)](https://github.com/najrul04/github-readme-stats)<br/>
 
-<!-- Streak_Stat -->
+-->
 
  <h3>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=3000&color=9416A4&width=435&lines=Streaks%3A" alt="Typing SVG" /></a>
