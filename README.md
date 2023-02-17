@@ -166,7 +166,7 @@ I am a self-driven ambitious, and enthusiastic front‑end developer. I have wor
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=3000&color=9416A4&width=435&lines=Streaks%3A" alt="Typing SVG" /></a>
  </h3>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=najrul04&theme=dark&hide_border=false)
+![Najrul's GitHub stats](https://github-readme-stats.vercel.app/api?username=najrul04&show_icons=true&bg_color=00000000)
 
 <!-- 3D Chart -->
 
