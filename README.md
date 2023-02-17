@@ -134,8 +134,8 @@ I am a self-driven ambitious, and enthusiastic front‑end developer. I have wor
   <div align="left" dir="auto">
 
 
- <h3>
  <!-- Most Used Language
+ <h3>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=3000&color=9416A4&width=435&lines=Most+Used+Language%3A" alt="Typing SVG" /></a>
  </h3>
@@ -156,6 +156,11 @@ I am a self-driven ambitious, and enthusiastic front‑end developer. I have wor
 [![Najrul's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)](https://github.com/najrul04/github-readme-stats)<br/>
 
 -->
+<h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=3000&color=9416A4&width=435&lines=Most+Used+Language%3A" alt="Typing SVG" /></a>
+ </h3>
+    
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=najrul04&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
  <h3>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=3000&color=9416A4&width=435&lines=Streaks%3A" alt="Typing SVG" /></a>
