@@ -1,4 +1,4 @@
-<!-- picture eeeeeeeeeeeeeeeeeE4eeeeeeseeeee -->
+<!-- picture -->
 
 <p align="center">
 <img src="https://github.com/najrul04/najrul04/blob/main/19362653.jpg"> 
