@@ -168,14 +168,6 @@ I am a self-driven ambitious, and enthusiastic front‑end developer. I have wor
 
 ![Najrul's GitHub stats](https://github-readme-stats.vercel.app/api?username=najrul04&show_icons=true&bg_color=00000000)
     
-    <!-- Github Streak -->
-    
-     <h3>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=3000&color=9416A4&width=435&lines=Github+Streak%3A" alt="Typing SVG" /></a>
- </h3>
-    
-    [![GitHub Streak](https://streak-stats.demolab.com?user=najrul04&theme=dark)](https://git.io/streak-stats)
-
 <!-- 3D Chart -->
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=3000&color=9416A4&width=435&lines=3D+Chart%3A" alt="Typing SVG" /></a>
