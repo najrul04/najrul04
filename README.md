@@ -27,7 +27,8 @@ I am a self-driven ambitious, and enthusiastic front‑end developer. I have wor
  </p>
 <p align="right">
 
-![Profile views](https://gpvc.arturio.dev/najrul04)
+  <!-- ![Profile views](https://gpvc.arturio.dev/najrul04) -->
+![](https://komarev.com/ghpvc/?username=najrul04&color=blueviolet)
 
 </p>
 
