@@ -177,11 +177,13 @@ I am a self-driven ambitious, and enthusiastic front‑end developer. I have wor
 
 ![](./profile-3d-contrib/profile-night-view.svg)
 
-<!-- Snake :3 -->
+<!-- Snake :3 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=3000&color=9416A4&width=435&lines=SNAKE!!" alt="Typing SVG" /></a>
 
-![snake gif](https://github.com/najrul04/najrul04/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/najrul04/najrul04/blob/output/github-contribution-grid-snake.svg) 
+
+-->
 
 <!-- Random Dev Quotes -->
 
