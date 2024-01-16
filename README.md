@@ -18,7 +18,7 @@ I am a self-driven ambitious, and enthusiastic full-stack developer. I have work
 
 </p>
 
-<!-- Issuess -->
+<!-- Issues -->
 
   <p> 
 - 📫 How to reach me: nazrul2517@gmail.com
