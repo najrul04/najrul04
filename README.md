@@ -14,9 +14,17 @@
 
 <p>
 
-I am a self-driven ambitious, and enthusiastic full-stack developer. I have worked on several web development projects using HTML5, CSS3, JavaScript, React JS, and Node JS. I am very interested in working as a web developer and I love to do it. The possibilities offered by the industry are endless and this motivates me to keep learning new methods and technologies every day. I would love to contribute to supporting the team’s objectives and outstanding performance.
+A Full Stack developer with a strong foundation in JavaScript, TypeScript, ReactJS, NextJS, NodeJS, ExpressJS and TailwindCSS. I excel in crafting exceptional web experiences through these technologies.
+In addition to my other technical skills such as NoSQL, Firebase, MongoDB, Redux, GitHub, RestAPI, WordPress, PHP, jQuery, Figma, HTML5, CSS3, Bootstrap5, ES6. 
+I hold a Bachelor's degree in Marketing. This background equips me with a strategic mindset, allowing me to create websites that not only look great but also deliver tangible results for businesses and their clients.
 
+My experience as an Assistant Manager has improved my client communication skills and provided valuable insights into real-world demands. This diverse background makes me a versatile developer who thrives both in collaborative team environments and as an independent problem solver.
+
+Check my portfolio for my full profile and contact details. I’m open to discussing job opportunities.
+
+<a href="https://najrul.netlify.app/" target="_blank">Portfolio</a>
 </p>
+
 
 <!-- Issues -->
 
