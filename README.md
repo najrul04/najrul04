@@ -16,19 +16,20 @@
 ![Najrul's GitHub stats](https://github-readme-stats.vercel.app/api?username=najrul04&show_icons=true&bg_color=00000000)
 
 
-<h3>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=3000&color=9416A4&width=435&lines=Most+Used+Language%3A" alt="Typing SVG" /></a>
- </h3>
-    
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=najrul04&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-  
-
 
 <h3> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=3000&color=9416A4&width=435&lines=GitHub+Streak%3A" alt="Typing SVG" /></a> </h3>
     
 [![GitHub Streak](https://streak-stats.demolab.com/?user=najrul04&theme=dark)](https://git.io/streak-stats)
 
-<!-- Cover Picture  -->
+
+<!-- 🌐### ✍️  Git Statistics-->
+
+<details>
+  <summary><b><g-emoji class="g-emoji" alias="gear" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2699.png">🔽</g-emoji> &nbsp; More Stats</b></summary> 
+  
+  <div align="left" dir="auto">
+
+  <!-- Cover Picture  -->
 
 <p align="center">
 <img src="https://github.com/najrul04/najrul04/blob/main/19362653.jpg"> 
@@ -58,12 +59,14 @@ Check my portfolio for my full profile and contact details. I’m open to discus
 
 
 
-<!-- 🌐### ✍️  Git Statistics-->
 
-<details>
-  <summary><b><g-emoji class="g-emoji" alias="gear" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2699.png">🔽</g-emoji> &nbsp; More Stats</b></summary> 
+<h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=3000&color=9416A4&width=435&lines=Most+Used+Language%3A" alt="Typing SVG" /></a>
+ </h3>
+    
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=najrul04&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
-  <div align="left" dir="auto">
+
 
 <!-- Issues -->
 
