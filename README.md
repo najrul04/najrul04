@@ -1,3 +1,33 @@
+<!-- GitHub Stats -->
+
+
+<!-- Streak_Stat 
+
+ <h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=3000&color=9416A4&width=435&lines=Stats%3A" alt="Typing SVG" /></a>
+ </h3>
+
+[![Najrul's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)](https://github.com/najrul04/github-readme-stats)<br/>
+
+-->
+
+ <h3> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=3000&color=9416A4&width=435&lines=Github+Stats%3A" alt="Typing SVG" /></a> </h3>
+
+![Najrul's GitHub stats](https://github-readme-stats.vercel.app/api?username=najrul04&show_icons=true&bg_color=00000000)
+
+
+<h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=3000&color=9416A4&width=435&lines=Most+Used+Language%3A" alt="Typing SVG" /></a>
+ </h3>
+    
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=najrul04&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  
+
+
+<h3> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=3000&color=9416A4&width=435&lines=GitHub+Streak%3A" alt="Typing SVG" /></a> </h3>
+    
+[![GitHub Streak](https://streak-stats.demolab.com/?user=najrul04&theme=dark)](https://git.io/streak-stats)
+
 <!-- Cover Picture  -->
 
 <p align="center">
@@ -14,7 +44,7 @@
 
 <p>
 
-A Full Stack developer with a strong foundation in JavaScript, TypeScript, ReactJS, NextJS, NodeJS, ExpressJS and TailwindCSS. I excel in crafting exceptional web experiences through these technologies.
+A Full-stack developer with a strong foundation in JavaScript, TypeScript, ReactJS, NextJS, NodeJS, ExpressJS and TailwindCSS. I excel in crafting exceptional web experiences through these technologies.
 In addition to my other technical skills such as NoSQL, Firebase, MongoDB, Redux, GitHub, RestAPI, WordPress, PHP, jQuery, Figma, HTML5, CSS3, Bootstrap5, ES6. 
 I hold a Bachelor's degree in Marketing. This background equips me with a strategic mindset, allowing me to create websites that not only look great but also deliver tangible results for businesses and their clients.
 
@@ -25,6 +55,15 @@ Check my portfolio for my full profile and contact details. I’m open to discus
 <a href="https://najrul.netlify.app/" target="_blank">Portfolio</a>
 </p>
 
+
+
+
+<!-- 🌐### ✍️  Git Statistics-->
+
+<details>
+  <summary><b><g-emoji class="g-emoji" alias="gear" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2699.png">🔽</g-emoji> &nbsp; More Stats</b></summary> 
+  
+  <div align="left" dir="auto">
 
 <!-- Issues -->
 
@@ -135,13 +174,6 @@ Check my portfolio for my full profile and contact details. I’m open to discus
  
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/najrul-islam) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/nazrul2517) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/nazrul_i04) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/najrul0) [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/nazrul2517) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15235744) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://reddit.com/user/Asleep-Direction3888)[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)](https://quora.com/profile/Nazrul-Islam-19-1)
 
-<!-- 🌐### ✍️  Git Statistics-->
-
-<details>
-  <summary><b><g-emoji class="g-emoji" alias="gear" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2699.png">🔽</g-emoji> &nbsp; More Stats</b></summary> 
-  
-  <div align="left" dir="auto">
-
 
  <!-- Most Used Language
  <h3>
@@ -153,31 +185,6 @@ Check my portfolio for my full profile and contact details. I’m open to discus
 -->
 
 
-<!-- GitHub Stats -->
-
-
-<!-- Streak_Stat 
-
- <h3>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=3000&color=9416A4&width=435&lines=Stats%3A" alt="Typing SVG" /></a>
- </h3>
-
-[![Najrul's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)](https://github.com/najrul04/github-readme-stats)<br/>
-
--->
-<h3>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=3000&color=9416A4&width=435&lines=Most+Used+Language%3A" alt="Typing SVG" /></a>
- </h3>
-    
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=najrul04&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-    
-<h3> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=3000&color=9416A4&width=435&lines=GitHub+Streak%3A" alt="Typing SVG" /></a> </h3>
-    
-[![GitHub Streak](https://streak-stats.demolab.com/?user=najrul04&theme=dark)](https://git.io/streak-stats)
-
- <h3> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=3000&color=9416A4&width=435&lines=Github+Stats%3A" alt="Typing SVG" /></a> </h3>
-
-![Najrul's GitHub stats](https://github-readme-stats.vercel.app/api?username=najrul04&show_icons=true&bg_color=00000000)
     
 <!-- 3D Chart -->
 
