@@ -19,7 +19,8 @@
 
 <h3> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=3000&color=9416A4&width=435&lines=GitHub+Streak%3A" alt="Typing SVG" /></a> </h3>
     
-[![GitHub Streak](https://streak-stats.demolab.com/?user=najrul04&theme=dark)](https://git.io/streak-stats)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=najrul04&theme=dark&border_radius=5.5)
 
 
 <!-- 🌐### ✍️  Git Statistics-->
